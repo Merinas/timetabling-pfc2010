@@ -1,0 +1,24 @@
+% This file was created with JabRef 2.5.
+% Encoding: Cp1252
+
+@TECHREPORT{FALEIROS2007,
+  author = {THIAGO DE PAULO FALEIROS},
+  title = {Abordagem Imunológica para Elaboração Automática de Quadros Horários.},
+  institution = {Universidade Federal de Goiás, Campus Catalão},
+  year = {2007},
+  type = {Projeto Final de Curso (Bacharelado)},
+  note = {Disponível em: $http://www.catalao.ufg.br/cc/disc/pfc/mono/Thiago2007.pdf$.
+	Acesso em: 03 de março de 2010.}
+}
+
+@TECHREPORT{Perone2006,
+  author = {Christian Samuel Perone},
+  title = {Algoritmo genético para alocação de carga horária.},
+  institution = {UPF, Passo Fundo},
+  year = {2006},
+  type = {Trabalho de Conclusão de Curso},
+  note = {Disponível em: $http://genetictabling.googlecode.com/files/Monografia_ChristianSamuelPerone.pdf$.
+	Acesso em: 03 de março de 2010.},
+  journal = {"Journal" Desconhecido},
+  timestamp = {2010.03.03}
+}

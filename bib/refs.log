@@ -1,0 +1,29 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdftex 2010.3.3)  3 MAR 2010 16:02
+entering extended mode
+**C:/Documents*and*Settings/salviano/Meus*documentos/salviano_pfc/bib/refs.bib
+("C:/Documents and Settings/salviano/Meus documentos/salviano_pfc/bib/refs.bib"
+Missing character: There is no é in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ã in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.14 @comment{jabref-meta: selector_
+                                    publisher:}
+? 
+! Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.14 @comment{jabref-meta: selector_
+                                    publisher:}
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
