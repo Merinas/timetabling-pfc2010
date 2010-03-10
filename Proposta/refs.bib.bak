@@ -11,6 +11,12 @@
 	Acesso em: 03 de março de 2010.}
 }
 
+@MISC{Fang1994,
+  author = {Hsiao-Lan Fang and D I N Bu},
+  title = {Genetic Algorithms in Timetabling and Scheduling},
+  year = {1994}
+}
+
 @TECHREPORT{Perone2006,
   author = {Christian Samuel Perone},
   title = {Algoritmo genético para alocação de carga horária.},
@@ -22,3 +28,4 @@
   journal = {"Journal" Desconhecido},
   timestamp = {2010.03.03}
 }
+
