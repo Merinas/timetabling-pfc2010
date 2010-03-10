@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.3.6)  6 MAR 2010 13:11
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.3.6)  10 MAR 2010 08:49
 entering extended mode
 **Proposta.tex
 
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\Proposta.tex"
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\Proposta.tex"
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
@@ -24,8 +24,8 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\pfc.sty"
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\pfc.sty"
 *********************************************************************
 *Estilo para o PFC - Atencao com a ficha catalografica na impressao!*
 *********************************************************************
@@ -62,8 +62,8 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 ("C:\Arquivos de programas\MiKTeX 2.8\tex\latex\base\latin1.def"
 File: latin1.def 2008/03/30 v1.1d Input encoding file
 ))
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\algorithm.sty"
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\algorithm.sty"
 Package: algorithm 
 
 Document Style `algorithm' - floating environment
@@ -81,8 +81,8 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \@float@every@algorithm=\toks18
 \c@algorithm=\count89
 )
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\algorithmic.sty"
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\algorithmic.sty"
 Package: algorithmic 2005/07/05
 
 Document Style `algorithmic' - environment
@@ -141,12 +141,12 @@ File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
 )
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\indentfirst.sty"
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\lgm.sty"
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\lgm.sty"
 ("C:\Arquivos de programas\MiKTeX 2.8\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2009/06/22 v3.00
 
@@ -181,8 +181,8 @@ LaTeX Warning: Unused global option(s):
     [openany].
 
 
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\Proposta.aux")
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\Proposta.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -209,16 +209,16 @@ LaTeX Font Info:    ... okay on input line 6.
 \MPnumerator=\count107
 \everyMPtoPDFconversion=\toks24
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 64.
+LaTeX Font Info:    Try loading font information for U+msa on input line 74.
  ("C:\Arquivos de programas\MiKTeX 2.8\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 64.
+LaTeX Font Info:    Try loading font information for U+msb on input line 74.
 
 ("C:\Arquivos de programas\MiKTeX 2.8\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Underfull \hbox (badness 2134) in paragraph at lines 83--84
+Underfull \hbox (badness 2134) in paragraph at lines 93--94
 []\OT1/cmr/m/n/12 Estudo so-bre o de-sen-volvi-mento de um
  []
 
@@ -226,8 +226,8 @@ Underfull \hbox (badness 2134) in paragraph at lines 83--84
 
 {C:/Documents and Settings/salviano/Configurações locais/Dados de aplicativos/M
 iKTeX/2.8/pdftex/config/pdftex.map}]
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\Proposta.bbl"
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\Proposta.bbl"
 Underfull \hbox (badness 3815) in paragraph at lines 4--11
 []\OT1/cmr/m/n/12 FALEIROS, T. D. P. (2007).  Abor-dagem imunologica para elab
 -orac~ao au-
@@ -258,22 +258,22 @@ elPerone:pdf$\OT1/cmr/m/n/12 .
  []
 
 ) [2]
-("C:\Documents and Settings\salviano\Meus documentos\salviano_pfc\timetabling-p
-fc2010\Proposta\Proposta.aux") ) 
+("C:\Documents and Settings\salviano\Meus documentos\PFC\Salviano_pfc\timetabli
+ng-pfc2010\Proposta\Proposta.aux") ) 
 Here is how much of TeX's memory you used:
  2202 strings out of 495285
- 28740 string characters out of 3179632
+ 28816 string characters out of 3179632
  86591 words of memory out of 3000000
  5372 multiletter control sequences out of 15000+200000
  8997 words of font info for 35 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,11n,28p,257b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Arquivos de programas/MiKTeX 2.8/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/Arquivos de programas/MiKTeX 2.8/fonts/type
-1/public/amsfonts/cm/cmmi12.pfb><C:/Arquivos de programas/MiKTeX 2.8/fonts/type
-1/public/amsfonts/cm/cmmi8.pfb><C:/Arquivos de programas/MiKTeX 2.8/fonts/type1
-/public/amsfonts/cm/cmr12.pfb>
-Output written on Proposta.pdf (2 pages, 58725 bytes).
+<C:/Arquivos de programas/MiKTeX 2.8/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb><C:/Arquivos de programas/MiKTeX 2.8/fonts/
+type1/public/amsfonts/cm/cmmi12.pfb><C:/Arquivos de programas/MiKTeX 2.8/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb><C:/Arquivos de programas/MiKTeX 2.8/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb>
+Output written on Proposta.pdf (2 pages, 58978 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
